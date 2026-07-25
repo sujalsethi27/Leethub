@@ -14,24 +14,26 @@
  * }
  */
 class Solution {
+
+    int diameter = 0;
+
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null) {
-            return 0;
-        }
-       int diameter = 0;
-       int lh = height(root.left);
-       int rh = height(root.right);
-      int currentdia = Math.max(diameter , lh + rh);
-      int leftdia = diameterOfBinaryTree(root.left);
-      int rightdia = diameterOfBinaryTree(root.right);
-      return Math.max(currentdia, Math.max(leftdia, rightdia));
+        height(root);
+        return diameter;
     }
-    int height(TreeNode root) {
-        if(root == null) {
+
+    private int height(TreeNode root) {
+        if (root == null) {
             return 0;
         }
+
         int lh = height(root.left);
         int rh = height(root.right);
-        return 1 + Math.max(lh , rh);
+
+        // Update the maximum diameter found so far
+        diameter = Math.max(diameter, lh + rh);
+
+        // Return height of current subtree
+        return 1 + Math.max(lh, rh);
     }
 }
