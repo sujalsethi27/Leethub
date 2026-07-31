@@ -25,6 +25,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0543-diameter-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -60,6 +61,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0543-diameter-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -86,4 +88,5 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
