@@ -10,6 +10,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sujalsethi27/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sujalsethi27/Leethub/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
@@ -27,6 +28,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sujalsethi27/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sujalsethi27/Leethub/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0110-balanced-binary-tree) |
@@ -42,6 +44,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sujalsethi27/Leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sujalsethi27/Leethub/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
@@ -76,4 +79,8 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
