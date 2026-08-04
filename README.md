@@ -97,4 +97,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
