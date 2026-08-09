@@ -7,6 +7,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -73,6 +75,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -115,6 +118,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0450-delete-node-in-a-bst) |
@@ -134,4 +138,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
