@@ -151,4 +151,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
