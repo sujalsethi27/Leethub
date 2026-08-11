@@ -6,6 +6,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 ## Tree
@@ -19,6 +20,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0110-balanced-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
@@ -48,6 +50,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0110-balanced-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
@@ -75,6 +78,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0110-balanced-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
@@ -154,6 +158,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
