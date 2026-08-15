@@ -124,6 +124,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sujalsethi27/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -164,4 +165,8 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sujalsethi27/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
