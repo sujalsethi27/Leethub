@@ -35,6 +35,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0538-convert-bst-to-greater-tree](https://github.com/sujalsethi27/Leethub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -63,6 +64,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0538-convert-bst-to-greater-tree](https://github.com/sujalsethi27/Leethub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -93,6 +95,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0538-convert-bst-to-greater-tree](https://github.com/sujalsethi27/Leethub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -115,6 +118,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sujalsethi27/Leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
