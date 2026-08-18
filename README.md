@@ -9,6 +9,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sujalsethi27/Leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sujalsethi27/Leethub/tree/master/0173-binary-search-tree-iterator) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -106,6 +108,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Dynamic Programming
@@ -147,6 +150,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0700-search-in-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
@@ -182,6 +186,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,4 +199,8 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
