@@ -69,6 +69,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sujalsethi27/Leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/sujalsethi27/Leethub/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -129,6 +130,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sujalsethi27/Leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
@@ -213,4 +215,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
