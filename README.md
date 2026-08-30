@@ -61,6 +61,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -128,6 +129,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sujalsethi27/Leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
@@ -192,6 +194,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujalsethi27/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -218,9 +221,14 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
