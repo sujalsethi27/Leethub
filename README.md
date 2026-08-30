@@ -139,6 +139,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -199,6 +200,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
@@ -235,4 +237,5 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
