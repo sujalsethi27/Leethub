@@ -79,6 +79,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +231,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -238,4 +242,5 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
