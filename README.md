@@ -122,6 +122,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/sujalsethi27/Leethub/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sujalsethi27/Leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/sujalsethi27/Leethub/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -200,6 +202,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sujalsethi27/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
@@ -240,6 +243,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sujalsethi27/Leethub/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
