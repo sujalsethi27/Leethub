@@ -145,6 +145,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1765-map-of-highest-peak](https://github.com/sujalsethi27/Leethub/tree/master/1765-map-of-highest-peak) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1765-map-of-highest-peak](https://github.com/sujalsethi27/Leethub/tree/master/1765-map-of-highest-peak) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,4 +249,5 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1765-map-of-highest-peak](https://github.com/sujalsethi27/Leethub/tree/master/1765-map-of-highest-peak) |
 <!---LeetCode Topics End-->
