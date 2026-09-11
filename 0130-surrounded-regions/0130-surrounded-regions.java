@@ -44,9 +44,9 @@ class Solution {
             if(board[i][j] == 'O' && !vis[i][j]) {
     board[i][j] = 'X';
 }
-        }
       }
   }
+}
 }
 class Pair {
     int row; 
