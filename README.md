@@ -79,6 +79,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0669-trim-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -147,6 +148,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -252,6 +254,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -267,8 +270,17 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
