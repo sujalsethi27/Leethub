@@ -63,6 +63,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0144-binary-tree-preorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -136,6 +137,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0130-surrounded-regions](https://github.com/sujalsethi27/Leethub/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sujalsethi27/Leethub/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/sujalsethi27/Leethub/tree/master/0542-01-matrix) |
@@ -248,6 +250,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -260,4 +263,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/sujalsethi27/Leethub/tree/master/1765-map-of-highest-peak) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
