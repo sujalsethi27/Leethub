@@ -81,6 +81,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sujalsethi27/Leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -151,6 +152,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -250,6 +252,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sujalsethi27/Leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
@@ -259,6 +262,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 ## Matrix
 |  |
 | ------- |
@@ -291,8 +295,10 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
