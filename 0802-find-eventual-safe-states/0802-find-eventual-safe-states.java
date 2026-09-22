@@ -1,42 +1,37 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int[] vis = new int[graph.length];
-        int[] pathvis = new int[graph.length];
-        int[] check = new int[graph.length];
-        List<Integer> list = new ArrayList<>();
+       int n = graph.length;
+       int[] outdegree = new int[n];
 
-        for(int i = 0; i < graph.length; i++) {
-          if(vis[i] == 0) {
-             dfsCheck(i, graph, vis, pathvis, check);
-            }
+       List<List<Integer>> reverseGraph = new ArrayList<>();
+       for (int i = 0; i < n; i++) {
+       reverseGraph.add(new ArrayList<>());
+       }
+       for(int i = 0; i < n; i++) {
+        for(int neigh : graph[i]) {
+            reverseGraph.get(neigh).add(i);
+            outdegree[i]++;
         }
-         for(int i = 0; i < graph.length; i++) {
-            if(check[i] == 1) {
-                list.add(i);
-            }
-         }
-         return list;
-    }
-    
-    public boolean dfsCheck(int node, int[][] graph, int[] vis, int[] pathvis, int[] check) {
-           vis[node] = 1;
-          pathvis[node] = 1;
-          check[node] = 0;
-      for(int neighbour : graph[node]) {
-        // list.get give us the values store in that node of arraylist
-        if(vis[neighbour] == 0) {
-            if(dfsCheck(neighbour, graph, vis, pathvis, check) == true) {
-                check[node] = 0;
-                return true;
-            }
+       }
+       Queue<Integer> q = new LinkedList<>();
+       for(int i = 0; i < n; i++) {
+        if(outdegree[i] == 0) {
+            q.add(i);
         }
-        else if(pathvis[neighbour] == 1) {
-            check[node] = 0;
-            return true;
-        }
-      }
-      check[node] = 1;
-   pathvis[node] = 0;
-   return false;
+       }
+       List<Integer> anslist = new ArrayList<>();
+       while(!q.isEmpty()) {
+        int node = q.poll();
+        anslist.add(node);
+
+          for (int neigh : reverseGraph.get(node)) {
+          outdegree[neigh]--;
+          if(outdegree[neigh] == 0) {
+           q.add(neigh);
+          }
+          }
+       }
+       Collections.sort(anslist);
+      return anslist;
     } 
 }
