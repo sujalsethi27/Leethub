@@ -138,6 +138,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0102-binary-tree-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sujalsethi27/Leethub/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sujalsethi27/Leethub/tree/master/0200-number-of-islands) |
@@ -231,6 +232,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
@@ -305,4 +307,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
