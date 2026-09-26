@@ -138,6 +138,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0102-binary-tree-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sujalsethi27/Leethub/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sujalsethi27/Leethub/tree/master/0199-binary-tree-right-side-view) |
@@ -165,6 +166,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sujalsethi27/Leethub/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -310,9 +313,11 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
