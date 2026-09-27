@@ -79,6 +79,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sujalsethi27/Leethub/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
@@ -153,6 +154,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sujalsethi27/Leethub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sujalsethi27/Leethub/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sujalsethi27/Leethub/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
@@ -268,6 +270,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0207-course-schedule](https://github.com/sujalsethi27/Leethub/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sujalsethi27/Leethub/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
@@ -320,4 +323,16 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
