@@ -82,6 +82,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sujalsethi27/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/sujalsethi27/Leethub/tree/master/1020-number-of-enclaves) |
@@ -132,6 +133,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sujalsethi27/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/sujalsethi27/Leethub/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sujalsethi27/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sujalsethi27/Leethub/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sujalsethi27/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/sujalsethi27/Leethub/tree/master/0994-rotting-oranges) |
@@ -277,6 +280,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | [0547-number-of-provinces](https://github.com/sujalsethi27/Leethub/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sujalsethi27/Leethub/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sujalsethi27/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sujalsethi27/Leethub/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/sujalsethi27/Leethub/tree/master/0886-possible-bipartition) |
 ## Matrix
@@ -333,11 +337,13 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sujalsethi27/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sujalsethi27/Leethub/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sujalsethi27/Leethub/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sujalsethi27/Leethub/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
