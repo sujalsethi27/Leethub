@@ -333,6 +333,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
+| [0415-add-strings](https://github.com/sujalsethi27/Leethub/tree/master/0415-add-strings) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -366,4 +367,12 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sujalsethi27/Leethub/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/sujalsethi27/Leethub/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/sujalsethi27/Leethub/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
