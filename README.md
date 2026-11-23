@@ -226,6 +226,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujalsethi27/Leethub/tree/master/0014-longest-common-prefix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sujalsethi27/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sujalsethi27/Leethub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -332,6 +333,7 @@ Automatically syncs my LeetCode solutions with GitHub.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sujalsethi27/Leethub/tree/master/0014-longest-common-prefix) |
 | [0126-word-ladder-ii](https://github.com/sujalsethi27/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sujalsethi27/Leethub/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/sujalsethi27/Leethub/tree/master/0344-reverse-string) |
@@ -377,4 +379,8 @@ Automatically syncs my LeetCode solutions with GitHub.
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/sujalsethi27/Leethub/tree/master/0415-add-strings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sujalsethi27/Leethub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
